@@ -32,7 +32,7 @@ _Each link points to a separate Youtube video, the code samples and relevant lin
   - [Kubernetes](#kubernetes)
 
 ## Basics
-  - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g "title" target="_blank")
+  - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g)
   - [What is Spring Cloud?](https://youtu.be/DduObGoRB9Y)
   - [What is Spring Batch?]()
   - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
