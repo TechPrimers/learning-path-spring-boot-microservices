@@ -1,7 +1,7 @@
-# Learning Path: Spring Boot & Microservices
+# 📖 Learning Path: Spring Boot & Microservices
 Curated path for learning Spring Boot &amp; Microservices based on published videos in TechPrimers. 
 
-_Each link points to a separate Youtube video, the code samples and relevant links/videos are available in the description of each video._
+_💡Each link points to a separate Youtube video, the code samples and relevant links/videos are available in the description of each video._
 
 # Spring Boot & Microservices
 1️⃣ [Basics](#basics)
