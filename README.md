@@ -4,14 +4,17 @@ Curated path for learning Spring Boot &amp; Microservices based on published vid
 _Each link points to a separate Youtube video, the code samples and relevant links/videos are available in the description of each video._
 
 # Spring Boot & Microservices
-- [Basics](#basics)
-- [Deep Dive](#deep-dive)
+1️⃣ [Basics](#basics)
+
+2️⃣ [Deep Dive](#deep-dive)
   - [MVC and JPA](#mvc-and-jpa)
   - [Hibernate JPA](#hibernate-jpa)
   - [Enterprise Grade](#enterprise-grade)
   - [Documentation](#documentation)
-- [Security](#security)
-- [Integration](#integration)
+
+3️⃣ [Security](#security)
+
+4️⃣ [Integration](#integration)
   - [MySQL](#mysql)
   - [MyBatis and MySQL](#mybatis-and-mysql)
   - [Spring Batch](#spring-batch)
@@ -20,10 +23,12 @@ _Each link points to a separate Youtube video, the code samples and relevant lin
   - [ActiveMQ](#activemq)
   - [Kafka](#kafka)
   - [Redis,Aerospike and GraphQL](#redis-aerospike-and-graphql)
-- [Reactive Spring](#reactive-spring)
-- [Microservices](#microservices)
-- [Testing](#testing)
-- [Runtime](#runtime)
+
+5️⃣ [Microservices](#microservices)
+
+6️⃣ [Testing](#testing)
+
+7️⃣ [Runtime](#runtime)
   - [Docker](#docker)
   - [Pivotal Cloud Foundry](#pivotal-cloud-foundry)
   - [Google Cloud Platform](#google-cloud-platform)
