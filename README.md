@@ -15,7 +15,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Documentation](#documentation)
   - [Spring Boot: Best and Worst](#spring-boot-best-and-worst)
 
-
 3️⃣ [Security](#security)
 
 4️⃣ [Integration](#integration)
@@ -53,7 +52,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Google Cloud Platform and Kubernetes](#google-cloud-platform-and-kubernetes)
   - [Azure](#azure)
 
-
 8️⃣ [Official Documentations(#official-documentations)
 
 ## Basics
@@ -69,7 +67,13 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring JPA with POST example](https://youtu.be/nhH1PQF1698)
   - [How does Spring MVC work?](https://youtu.be/FlIJq9GlLWo)
   - [Spring Data REST and JPA](https://youtu.be/CX-xBVIEIkw)
-  
+  - [Spring Data JPA with Hibernate and MySQL](https://youtu.be/OhgJmZEva7A)
+ 
+### Hibernate JPA
+  - [One-to-One Mapping using Spring JPA in Hibernate example](https://youtu.be/qYTSCi6bh00)
+  - [One-to-Many Mapping using Spring JPA in Hibernate example](https://youtu.be/1SIkBduGXeE)
+  - [Many-to-One Mapping using Spring JPA in Hibernate example](https://youtu.be/s35TLV_gQi8)
+
 ### Enterprise grade
   - [Properties vs YAML](https://youtu.be/EvEM1FQlFpQ)
   - [Profiles in Spring Boot example](https://youtu.be/Op4SRM3t0nw)
@@ -95,11 +99,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [API First Desgin | Open API Specification](https://youtu.be/00DByVAVKV4)
   - [REST API Documentation (Swagger2) example](https://youtu.be/HHyjWc0ASl8)
   - [Spring Boot with HATEOS and REST with example](https://youtu.be/vvcANMpfr5I)
-
-### Hibernate JPA
-  - [One-to-One Mapping using Spring JPA in Hibernate example](https://youtu.be/qYTSCi6bh00)
-  - [One-to-Many Mapping using Spring JPA in Hibernate example](https://youtu.be/1SIkBduGXeE)
-  - [Many-to-One Mapping using Spring JPA in Hibernate example](https://youtu.be/s35TLV_gQi8)
+  
+### Spring Boot: Best and Worst
+  - [Spring Boot: Best and Worst - my take](https://youtu.be/myqK2vcg-5w)
 
 ## Security
   - [Spring Security in Spring Boot with example](https://youtu.be/3s2lSD50-JI)
@@ -165,13 +167,11 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### GraphQL
   - [What is GraphQL?](https://youtu.be/6xyZ4Pl5IYg)
   - [Spring Boot with GraphQL example](https://youtu.be/zX2I7-aIldE)
+  - [REST vs GraphQL - When to choose one over other?](https://youtu.be/4akSaaEYJqs)
   
 ### Neo4J
   - [What is Graph Database?](https://youtu.be/3C48rm9H4DI)
   - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
-  
-### Spring Boot: Best and Worst
-  - [Spring Boot: Best and Worst - my take](https://youtu.be/myqK2vcg-5w)
   
 ## Microservices
 ### Load Balancing
@@ -207,6 +207,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 
 ### Chaos Engineering
   - [What is Chaos Engineering?](https://youtu.be/3CNNhK9JTDk)
+  - [Chaos Experiments using ChaosToolkit and ChaosMonkey for Spring Boot](https://youtu.be/-smx0-qeurw)
   
 ### Service Mesh
   - [What is Service Mesh? Why do we need Service Mesh?](https://youtu.be/nnxWMhy0mpA)
@@ -217,6 +218,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
   - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
+  - [Spring Cloud Eureka example](https://youtu.be/SjU3AsSATvI)
+  - [Spring Cloud Eureka and Hystrix](https://youtu.be/hQ1pu1O4dRA)
+  - [Spring Cloud Eureka, Hystrix and Zuul](https://youtu.be/dZ8Z5DpcdrM)
 
 ## Testing
   - [What is TDD?](https://youtu.be/T38L7A0xP-c)
@@ -236,7 +240,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is Cloud Foundry?](https://youtu.be/vzSuYab2q5M)
   - [Deploying a Spring Boot App in Cloud Foundry](https://youtu.be/hzWEw--OziQ)
   - [Blue Green Deployment in Cloud Foundry](https://youtu.be/2Hz7r70ZuFU)
-  
   
 ### Amazon Web Services
   - [What is AWS?](https://youtu.be/8xm8uraSxLY)
@@ -262,11 +265,14 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Kubernetes Secrets with Spring Boot example](https://youtu.be/Qzy6nmk0eI8)
 
 ### Azure
+  - [Getting started with Azure Kubernetes Service with Spring Boot](https://youtu.be/sK9_c9gSR8M)
 
 ## Official Documentations
-  - [Spring Boot]()
-  - [Spring Cloud]()
+  - [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/html/documentation-overview.html)
+  - [Spring Cloud](https://spring.io/projects/spring-cloud)
   - [Microservices](https://microservices.io)
+  - [AWS Docs](https://docs.aws.amazon.com/)
+  - [Kubernetes Docs](https://kubernetes.io/docs/home/)
 
 ---------------------------------------------------------------
 P.S. All the content in this README are based on the videos published in [TechPrimers](https://www.youtube.com/TechPrimers)
