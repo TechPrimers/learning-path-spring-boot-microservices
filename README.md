@@ -78,8 +78,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with Micrometer and Prometheus example](https://youtu.be/1_BZAA8T1G0)
 
 ### Documentation
-  - [Spring Boot with HATEOS and REST with example](https://youtu.be/vvcANMpfr5I)
+  - [API First Desgin | Open API Specification](https://youtu.be/00DByVAVKV4)
   - [REST API Documentation (Swagger2) example](https://youtu.be/HHyjWc0ASl8)
+  - [Spring Boot with HATEOS and REST with example](https://youtu.be/vvcANMpfr5I)
 
 ### Hibernate JPA
   - [One-to-One Mapping using Spring JPA in Hibernate example](https://youtu.be/qYTSCi6bh00)
@@ -105,8 +106,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with Mybatis and MySQL example #2](https://youtu.be/E0cRlFNpiL0)
 
 ### Spring Batch
-  - [What is Spring Batch?]()
-  - [Spring Boot with Spring Batch example]()
+  - [What is Spring Batch?](https://youtu.be/16bq_N55f_s)
+  - [Spring Boot with Spring Batch example](https://youtu.be/1XEX-u12i0A)
   
 ### Spring Integration
   - [Spring Integration with Spring Boot (File adapter) example](https://youtu.be/z13ujlvIBM0)
