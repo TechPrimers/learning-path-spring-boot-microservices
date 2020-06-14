@@ -26,7 +26,10 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Elastic Search](#elastic-search)
   - [ActiveMQ](#activemq)
   - [Kafka](#kafka)
-  - [Redis,Aerospike, Neo4j and GraphQL](#redis-aerospike-neo4j-and-graphql)
+  - [Redis](#redis)
+  - [Aerospike](#aerospike)
+  - [GraphQL](#graphql)
+  - [Neo4J](#neo4j)
 
 5️⃣ [Microservices](#microservices)
 
@@ -45,35 +48,21 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ## Basics
   - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g)
   - [What is Spring Cloud?](https://youtu.be/DduObGoRB9Y)
-  - [What is Spring Batch?]()
-  - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
-  - [What is Spring Cloud Sleuth? (Distributed Log tracing)](https://youtu.be/VHTli6KQO54)
-  - [What is Reactive Programming?](https://youtu.be/0ueFTvSdxpw)
-  - [Container/Docker Basics](https://youtu.be/yo2g_CZZWL4)
-  - [What is Apache Kafka?](https://youtu.be/Najgh-3hcng)
-  - [What is OAuth2?](https://youtu.be/bzGKgC3N7SY)
-  - [What is JWT?](https://youtu.be/muRr4dImv1k)
-  - [OAuth vs JWT](https://youtu.be/a9R3Gq1BKxI)
-  - [What is MongoDB with example](https://youtu.be/l5KC6OcbuOI)
-  - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
-  - [What is Redis?](https://youtu.be/Wxd6sMUhgBg)
-  - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
-  - [What is Aerospike?](https://youtu.be/cf0-oXdChLY)
-  - [What is GraphQL?](https://youtu.be/6xyZ4Pl5IYg)
-  - [REST Basics](https://youtu.be/cxedHrXna-Q)
-  - [Properties vs YAML](https://youtu.be/EvEM1FQlFpQ)
   - [What is Cloud Native?](https://youtu.be/NoFu_rpM7EQ)
-  - [What are WebSockets?](https://youtu.be/i5OVcTdt_OU)
 
 ## Deep Dive
 ### MVC and JPA
+  - [REST Basics](https://youtu.be/cxedHrXna-Q)
   - [How to create and run a Spring Boot](https://youtu.be/s0PA9jnyFaM)
   - [Spring JPA with POST example](https://youtu.be/nhH1PQF1698)
   - [How does Spring MVC work?](https://youtu.be/FlIJq9GlLWo)
   - [Spring Data REST and JPA](https://youtu.be/CX-xBVIEIkw)
+  
 ### Enterprise grade
+  - [Properties vs YAML](https://youtu.be/EvEM1FQlFpQ)
   - [Profiles in Spring Boot example]()
   - [Running Spring Boot App as HTTPS](https://youtu.be/rm9OKTSm-4A)
+  - [What are WebSockets?](https://youtu.be/i5OVcTdt_OU)
   - [Spring Boot using WebSockets example](https://youtu.be/OK2Fn6k7pwo)
   - [Spring Cache using EhCache example](https://youtu.be/cWqNeANzEz0)
   - [Spring Boot using SOAP Web Services](https://youtu.be/mr_2-AWYCoc)
@@ -81,9 +70,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 
 ### Debugging
   - [Remote Debugging using IntelliJ](https://youtu.be/jA1wHbAK_T0)
-  - [Live-reload of Spring Boot App using Spring Dev Tools]()
+  - [Live-reload of Spring Boot App using Spring Dev Tools](https://youtu.be/_3uMgaAncmA)
 
-  
 ### Monitoring
   - [Actuators in Spring Boot example](https://youtu.be/im3h-PbvjU0)
   - [What is Micrometer?](https://youtu.be/PiBeO4E1xAU)
@@ -102,9 +90,12 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Security in Spring Boot with example](https://youtu.be/3s2lSD50-JI)
   - [Spring Security using Authentication & Authorization from MySQL example](https://youtu.be/egXtoL5Kg08)
   - [Spring Security using LDAP example](https://youtu.be/fuG5YziN_xs)
+  - [What is JWT?](https://youtu.be/muRr4dImv1k)
   - [Spring Security using JWT example](https://youtu.be/-HYrUs1ZCLI)
+  - [What is OAuth2?](https://youtu.be/bzGKgC3N7SY)
   - [Spring Security using OAuth2 example](https://youtu.be/Dbxzw0cpxBU)
   - [Spring Security using OAuth2 with MySQL example](https://youtu.be/dTAgI_UsqMg)
+  - [OAuth vs JWT](https://youtu.be/a9R3Gq1BKxI)
 
 ## Integration
 ### MySQL
@@ -114,12 +105,14 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with Mybatis and MySQL example #2](https://youtu.be/E0cRlFNpiL0)
 
 ### Spring Batch
+  - [What is Spring Batch?]()
   - [Spring Boot with Spring Batch example]()
   
 ### Spring Integration
   - [Spring Integration with Spring Boot (File adapter) example](https://youtu.be/z13ujlvIBM0)
 
 ### Spring Reactive with MongoDB
+  - [What is MongoDB with example](https://youtu.be/l5KC6OcbuOI)
   - [Spring Reactive Mongo with WebFlux example #1](https://youtu.be/27Lg96EwPEg)
   - [Spring Reactive Mongo with WebFlux example #2](https://youtu.be/QsgSpFcUUec)
   - [Spring Reactive Mongo with WebFlux example #3](https://youtu.be/WeMPkxGXXaM)  
@@ -139,23 +132,38 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with InMemory ActiveMQ example](https://youtu.be/w78qhfpnLA0)
   - [Spring Boot with Standalone ActiveMQ example](https://youtu.be/zaCXYkzLgJc)
 ### Kafka
+  - [What is Apache Kafka?](https://youtu.be/Najgh-3hcng)
   - [Spring Boot with Kafka Producer example](https://youtu.be/NjHYWEV_E_o)
   - [Spring Boot with Kafka Consumer example](https://youtu.be/IncG0_XSSBg)
-### Redis, Aerospike, Neo4J and GraphQL
+
+### Redis
+  - [What is Redis?](https://youtu.be/Wxd6sMUhgBg)
   - [Spring Boot with Spring Data Redis example](https://youtu.be/eYfopvusG_s)
+### Aerospike
+  - [What is Aerospike?](https://youtu.be/cf0-oXdChLY)
   - [Spring Boot with Aerospike example](https://youtu.be/MUmHNgzN-IU)
-  - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
+### GraphQL
+  - [What is GraphQL?](https://youtu.be/6xyZ4Pl5IYg)
   - [Spring Boot with GraphQL example](https://youtu.be/zX2I7-aIldE)
   
+### Neo4J
+  - [What is Graph Database?](https://youtu.be/3C48rm9H4DI)
+  - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
+
   
 ## Microservices
+  - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
+  - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
   - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
   - [What is Blue/Green Deployment?](https://youtu.be/hp8ZO3SYviU)
   - [What is Hystrix with example](https://youtu.be/P1iF8ltmlXE)
   - [What is API Gateway? | Swiggy Imaginary Architecture](https://youtu.be/Wa_q8C6Qo68)
   - [What is Chaos Engineering?](https://youtu.be/3CNNhK9JTDk)
   - [Hystrix Dashboard with Spring Boot example](https://youtu.be/SxJ2uLZWOyw)
+  - [What is Spring Cloud Sleuth? (Distributed Log tracing)](https://youtu.be/VHTli6KQO54)
   - [Distributed Log tracing using Spring Cloud Sleuth example](https://youtu.be/gPKJkY2t7Pc)
+  - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
+  - [What is Reactive Programming?](https://youtu.be/0ueFTvSdxpw)
   - [How to design Microservices Architecture? Uber case study](https://youtu.be/Zed6udTPGro)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
@@ -169,6 +177,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 
 ## Runtime
 ### Docker
+  - [Container/Docker Basics](https://youtu.be/yo2g_CZZWL4)
   - [Create Docker image from Spring Boot App example](https://youtu.be/FlSup_eelYE)
   - [Spring Boot and MySQL in Docker example](https://youtu.be/fvEWoy1xOvo)
 
