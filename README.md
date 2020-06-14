@@ -13,6 +13,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Debugging](#debugging)
   - [Monitoring](#monitoring)
   - [Documentation](#documentation)
+  - [Spring Boot: Best and Worst](#spring-boot-best-and-worst)
+
 
 3️⃣ [Security](#security)
 
@@ -59,7 +61,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is Spring Cloud?](https://youtu.be/DduObGoRB9Y)
   - [What is Cloud Native?](https://youtu.be/NoFu_rpM7EQ)
   - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
-
+  
 ## Deep Dive
 ### MVC and JPA
   - [REST Basics](https://youtu.be/cxedHrXna-Q)
@@ -73,6 +75,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Profiles in Spring Boot example](https://youtu.be/Op4SRM3t0nw)
   - [Running Spring Boot App as HTTPS](https://youtu.be/rm9OKTSm-4A)
   - [Lazy Initialization in Spring Boot with example](https://youtu.be/5SgvEbb6DKs)
+  - [Graceful Shutodown in Spring Boot with example](https://youtu.be/NQTqMO4lG_Y)
   - [What are WebSockets?](https://youtu.be/i5OVcTdt_OU)
   - [Spring Boot using WebSockets example](https://youtu.be/OK2Fn6k7pwo)
   - [Spring Cache using EhCache example](https://youtu.be/cWqNeANzEz0)
@@ -167,6 +170,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is Graph Database?](https://youtu.be/3C48rm9H4DI)
   - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
   
+### Spring Boot: Best and Worst
+  - [Spring Boot: Best and Worst - my take](https://youtu.be/myqK2vcg-5w)
+  
 ## Microservices
 ### Load Balancing
   - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
@@ -191,6 +197,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Serverless in 2020](https://youtu.be/43PhZC3WD8s)
   - [Food Store System design using various Cloud Platforms](https://youtu.be/bHelfhgSN2c)
   - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
+  - [Strangler Application Pattern - eCommerce case study](https://youtu.be/8h3moilCpQ4)
 
 ### Observability
   - [What is Spring Cloud Sleuth? (Distributed Log tracing)](https://youtu.be/VHTli6KQO54)
@@ -204,6 +211,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### Service Mesh
   - [What is Service Mesh? Why do we need Service Mesh?](https://youtu.be/nnxWMhy0mpA)
   - [Linkerd Service mesh with Spring Boot example](https://youtu.be/Bj7gGQUiDuk)
+  - [Istio Architecture](https://youtu.be/qW2Uawj9q_M)
 
 ### End-to-End examples
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
@@ -221,6 +229,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### Docker
   - [Container/Docker Basics](https://youtu.be/yo2g_CZZWL4)
   - [Create Docker image from Spring Boot App example](https://youtu.be/FlSup_eelYE)
+  - [Multi Stage Docker builds](https://youtu.be/9MAU-O5jWJg)
   - [Spring Boot and MySQL in Docker example](https://youtu.be/fvEWoy1xOvo)
 
 ### Pivotal Cloud Foundry
