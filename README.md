@@ -58,7 +58,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Google Cloud Platform and Kubernetes](#google-cloud-platform-and-kubernetes)
   - [Azure](#azure)
 
-8️⃣ [Official Documentations(#official-documentations)
+8️⃣ [Official Documentations](#official-documentations)
 
 ## Basics
   - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g)
