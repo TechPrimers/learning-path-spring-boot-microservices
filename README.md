@@ -62,6 +62,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Properties vs YAML](https://youtu.be/EvEM1FQlFpQ)
   - [Profiles in Spring Boot example](https://youtu.be/Op4SRM3t0nw)
   - [Running Spring Boot App as HTTPS](https://youtu.be/rm9OKTSm-4A)
+  - [Lazy Initialization in Spring Boot with example](https://youtu.be/5SgvEbb6DKs)
   - [What are WebSockets?](https://youtu.be/i5OVcTdt_OU)
   - [Spring Boot using WebSockets example](https://youtu.be/OK2Fn6k7pwo)
   - [Spring Cache using EhCache example](https://youtu.be/cWqNeANzEz0)
@@ -93,9 +94,11 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Security using LDAP example](https://youtu.be/fuG5YziN_xs)
   - [What is JWT?](https://youtu.be/muRr4dImv1k)
   - [Spring Security using JWT example](https://youtu.be/-HYrUs1ZCLI)
+  - [Security Essentials for OpenID Connect & OAuth2](https://youtu.be/c6mPIkCBnTs)
   - [What is OAuth2?](https://youtu.be/bzGKgC3N7SY)
   - [Spring Security using OAuth2 example](https://youtu.be/Dbxzw0cpxBU)
   - [Spring Security using OAuth2 with MySQL example](https://youtu.be/dTAgI_UsqMg)
+  - [Spring Security OAuth2 using Facebook in Spring Boot](https://youtu.be/nnsWiXBVeMI)
   - [OAuth vs JWT](https://youtu.be/a9R3Gq1BKxI)
 
 ## Integration
@@ -155,7 +158,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ## Microservices
   - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
   - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
-  - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
   - [What is Blue/Green Deployment?](https://youtu.be/hp8ZO3SYviU)
   - [What is Hystrix with example](https://youtu.be/P1iF8ltmlXE)
   - [What is API Gateway? | Swiggy Imaginary Architecture](https://youtu.be/Wa_q8C6Qo68)
@@ -169,6 +171,14 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
   - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
+
+### Load Balancing
+  - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
+  - [What is Client Side Load balancing?](https://youtu.be/-PbnWGddmcM)
+  - [What is Server Side Load balancing?](https://youtu.be/z90Dcid2py4)
+  
+### Service Mesh
+  - [What is Service Mesh? Why do we need Service Mesh?](https://youtu.be/nnxWMhy0mpA)
 
 ## Testing
   - [What is TDD?](https://youtu.be/T38L7A0xP-c)
@@ -184,7 +194,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot and MySQL in Docker example](https://youtu.be/fvEWoy1xOvo)
 
 ### Pivotal Cloud Foundry
+  - [What is Cloud Foundry?]()
   - [Deploying a Spring Boot App in Cloud Foundry](https://youtu.be/hzWEw--OziQ)
+  - [Blue Green Deployment in Cloud Foundry](https://youtu.be/2Hz7r70ZuFU)
   
 ### Google Cloud Platform
   - [GCP Console tour](https://youtu.be/2WcAWhubJYs)
@@ -198,6 +210,14 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 
 ### Kubernetes
   - [What is Kubernetes?](https://youtu.be/DsHcfoRyDsM)
+  - [Kubernetes Architecture](https://youtu.be/Cmk6c5dXPfk)
+  - [Kubernetes Architecture - Service & Deployment](https://youtu.be/p1C9p4FTMYg)
+  - [Deploying Spring Boot on Kubernetes](https://youtu.be/jSYxW_c3M_E)
+  - [Kubernetes YML Generator with Usage for Deployment and Service](https://youtu.be/ZHY8Zd4R874)
+  - [Deployment Strategies in Kubernetes #1](https://youtu.be/4AUnI58ZI6M)
+  - [Blue Green Deployment | Deployment Strategies in Kubernetes #2](https://youtu.be/YBv-0VzjwhM)
+  - [Canary Deployment | Deployment Strategies in Kubernetes #3](https://youtu.be/vIVXyAUEf0A)
+  - [Deployment Strategies in Kubernetes #1]
 
 ## Official Documentations
   - [Spring Boot]()
