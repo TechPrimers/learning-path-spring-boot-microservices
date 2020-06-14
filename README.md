@@ -10,6 +10,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [MVC and JPA](#mvc-and-jpa)
   - [Hibernate JPA](#hibernate-jpa)
   - [Enterprise Grade](#enterprise-grade)
+  - [Debugging](#debugging)
+  - [Monitoring](#monitoring)
   - [Documentation](#documentation)
 
 3️⃣ [Security](#security)
@@ -18,11 +20,13 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [MySQL](#mysql)
   - [MyBatis and MySQL](#mybatis-and-mysql)
   - [Spring Batch](#spring-batch)
+  - [Spring Integration](#spring-integration)
   - [Spring Reactive with MongoDB](#spring-reactive-with-mongodb)
+  - [Transactionality](#transactionality)
   - [Elastic Search](#elastic-search)
   - [ActiveMQ](#activemq)
   - [Kafka](#kafka)
-  - [Redis,Aerospike and GraphQL](#redis-aerospike-and-graphql)
+  - [Redis,Aerospike, Neo4j and GraphQL](#redis-aerospike-neo4j-and-graphql)
 
 5️⃣ [Microservices](#microservices)
 
@@ -35,6 +39,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Amazon Web Services](#amazon-web-services)
   - [Azure](#azure)
   - [Kubernetes](#kubernetes)
+
+8️⃣ [Official Documentations(#official-documentations)
 
 ## Basics
   - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g)
@@ -67,11 +73,21 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Data REST and JPA](https://youtu.be/CX-xBVIEIkw)
 ### Enterprise grade
   - [Profiles in Spring Boot example]()
-  - [Actuators in Spring Boot example](https://youtu.be/im3h-PbvjU0)
-  - [Running Spring Boot App as HTTPS]()
-  - [Live-reload of Spring Boot App using Spring Dev Tools]()
+  - [Running Spring Boot App as HTTPS](https://youtu.be/rm9OKTSm-4A)
+  - [Spring Boot using WebSockets example](https://youtu.be/OK2Fn6k7pwo)
   - [Spring Cache using EhCache example](https://youtu.be/cWqNeANzEz0)
+  - [Spring Boot using SOAP Web Services](https://youtu.be/mr_2-AWYCoc)
   - [Spring Boot using Kotlin](https://youtu.be/30wfb-zOSEk)
+
+### Debugging
+  - [Remote Debugging using IntelliJ](https://youtu.be/jA1wHbAK_T0)
+  - [Live-reload of Spring Boot App using Spring Dev Tools]()
+
+  
+### Monitoring
+  - [Actuators in Spring Boot example](https://youtu.be/im3h-PbvjU0)
+  - [What is Micrometer?](https://youtu.be/PiBeO4E1xAU)
+  - [Spring Boot with Micrometer and Prometheus example](https://youtu.be/1_BZAA8T1G0)
 
 ### Documentation
   - [Spring Boot with HATEOS and REST with example](https://youtu.be/vvcANMpfr5I)
@@ -99,12 +115,18 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 
 ### Spring Batch
   - [Spring Boot with Spring Batch example]()
+  
+### Spring Integration
+  - [Spring Integration with Spring Boot (File adapter) example](https://youtu.be/z13ujlvIBM0)
 
 ### Spring Reactive with MongoDB
   - [Spring Reactive Mongo with WebFlux example #1](https://youtu.be/27Lg96EwPEg)
   - [Spring Reactive Mongo with WebFlux example #2](https://youtu.be/QsgSpFcUUec)
   - [Spring Reactive Mongo with WebFlux example #3](https://youtu.be/WeMPkxGXXaM)  
 
+### Transactionality
+  - [Transactionality in Spring Boot example](https://youtu.be/V01jjyq7MS8)
+  
 ### Elastic Search
   - [Spring Boot with Elastic Search example #1](https://youtu.be/bYiNlCaaRiI)
   - [Spring Boot with Elastic Search example #2](https://youtu.be/rfjsaccL_e0)
@@ -117,17 +139,22 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with InMemory ActiveMQ example](https://youtu.be/w78qhfpnLA0)
   - [Spring Boot with Standalone ActiveMQ example](https://youtu.be/zaCXYkzLgJc)
 ### Kafka
-  - [Spring Boot with Kafka Producer example]()
-  - [Spring Boot with Kafka Consumer example]()
-### Redis, Aerospike and GraphQL
+  - [Spring Boot with Kafka Producer example](https://youtu.be/NjHYWEV_E_o)
+  - [Spring Boot with Kafka Consumer example](https://youtu.be/IncG0_XSSBg)
+### Redis, Aerospike, Neo4J and GraphQL
   - [Spring Boot with Spring Data Redis example](https://youtu.be/eYfopvusG_s)
   - [Spring Boot with Aerospike example](https://youtu.be/MUmHNgzN-IU)
+  - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
   - [Spring Boot with GraphQL example](https://youtu.be/zX2I7-aIldE)
   
   
 ## Microservices
+  - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
   - [What is Blue/Green Deployment?](https://youtu.be/hp8ZO3SYviU)
   - [What is Hystrix with example](https://youtu.be/P1iF8ltmlXE)
+  - [What is API Gateway? | Swiggy Imaginary Architecture](https://youtu.be/Wa_q8C6Qo68)
+  - [What is Chaos Engineering?](https://youtu.be/3CNNhK9JTDk)
+  - [Hystrix Dashboard with Spring Boot example](https://youtu.be/SxJ2uLZWOyw)
   - [Distributed Log tracing using Spring Cloud Sleuth example](https://youtu.be/gPKJkY2t7Pc)
   - [How to design Microservices Architecture? Uber case study](https://youtu.be/Zed6udTPGro)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
@@ -152,11 +179,19 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [GCP Console tour](https://youtu.be/2WcAWhubJYs)
   
 ### Amazon Web Services
+  - [What is AWS?](https://youtu.be/8xm8uraSxLY)
+  - [How to create EC2 instance in AWS?](https://youtu.be/xYEvbneAhk4)
+  - [Running Spring Boot App on EC2 using S3 example](https://youtu.be/6RrqytT0-I8)
 
 ### Azure
 
 ### Kubernetes
   - [What is Kubernetes?](https://youtu.be/DsHcfoRyDsM)
+
+## Official Documentations
+  - [Spring Boot]()
+  - [Spring Cloud]()
+  - [Microservices](https://microservices.io)
 
 ---------------------------------------------------------------
 P.S. All the content in this README are based on the videos published in [TechPrimers](https://www.youtube.com/TechPrimers)
@@ -165,4 +200,4 @@ Disclaimer/Policy:
 ==================
 The content/views/opinions posted here are solely mine and the code samples created by me are open sourced. 
 You are free to use the code samples in Github after forking and you can modify it for your own use.
-All the videos posted here are copyrighted. You cannot re-distribute videos on this channel in other platforms.
+All the videos posted in Youtube are copyrighted. You cannot re-distribute videos on this channel in other platforms.
