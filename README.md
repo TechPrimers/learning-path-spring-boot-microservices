@@ -121,6 +121,9 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Reactive Mongo with WebFlux example #2](https://youtu.be/QsgSpFcUUec)
   - [Spring Reactive Mongo with WebFlux example #3](https://youtu.be/WeMPkxGXXaM)  
 
+### Spring Cloud Gateway 
+  - [Spring Cloud Gateway with Hystrix example](https://youtu.be/bRBgVMngHcQ)
+  
 ### Transactionality
   - [Transactionality in Spring Boot example](https://youtu.be/V01jjyq7MS8)
   
@@ -167,10 +170,13 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Distributed Log tracing using Spring Cloud Sleuth example](https://youtu.be/gPKJkY2t7Pc)
   - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
   - [What is Reactive Programming?](https://youtu.be/0ueFTvSdxpw)
+  - [Microservices Communication](https://youtu.be/uprdxlQ1U5g)
   - [How to design Microservices Architecture? Uber case study](https://youtu.be/Zed6udTPGro)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
   - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
   - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
+  - [How to design Highly Available Architecture?](https://youtu.be/dhvGnqbx7zM)
+  - [SAGA Architecture](https://youtu.be/WnZ7IcaN_JA)
 
 ### Load Balancing
   - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
@@ -179,6 +185,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   
 ### Service Mesh
   - [What is Service Mesh? Why do we need Service Mesh?](https://youtu.be/nnxWMhy0mpA)
+  - [Linkerd Service mesh with Spring Boot example](https://youtu.be/Bj7gGQUiDuk)
 
 ## Testing
   - [What is TDD?](https://youtu.be/T38L7A0xP-c)
@@ -205,6 +212,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is AWS?](https://youtu.be/8xm8uraSxLY)
   - [How to create EC2 instance in AWS?](https://youtu.be/xYEvbneAhk4)
   - [Running Spring Boot App on EC2 using S3 example](https://youtu.be/6RrqytT0-I8)
+  - [Spring Cloud Function example](https://youtu.be/8c8vEBUELYE)
+  - [Spring Cloud Function on AWS Lambda](https://youtu.be/Bj_5U7h_Ri0)
 
 ### Azure
 
@@ -217,7 +226,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Deployment Strategies in Kubernetes #1](https://youtu.be/4AUnI58ZI6M)
   - [Blue Green Deployment | Deployment Strategies in Kubernetes #2](https://youtu.be/YBv-0VzjwhM)
   - [Canary Deployment | Deployment Strategies in Kubernetes #3](https://youtu.be/vIVXyAUEf0A)
-  - [Deployment Strategies in Kubernetes #1]
 
 ## Official Documentations
   - [Spring Boot]()
