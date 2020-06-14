@@ -300,4 +300,4 @@ All the videos posted in Youtube are copyrighted. You cannot re-distribute video
 [![Github](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/github-48x48.png)](https://github.com/TechPrimers)
 [![Instagram](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/instagram-48x48.png)](https://instagram.com/TechPrimers)
 [![Reddit](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/reddit-48x48.png)](https://reddit.com/r/TechPrimers)
-
+[![Mail Us](https://github.com/paulrobertlloyd/socialmediaicons/blob/master/email-48x48.png)](mailto:info@techprimers.com)
