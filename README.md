@@ -22,6 +22,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Batch](#spring-batch)
   - [Spring Integration](#spring-integration)
   - [Spring Reactive with MongoDB](#spring-reactive-with-mongodb)
+  - [Spring Cloud Gateway](#spring-cloud-gateway)
   - [Transactionality](#transactionality)
   - [Elastic Search](#elastic-search)
   - [ActiveMQ](#activemq)
@@ -32,16 +33,24 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Neo4J](#neo4j)
 
 5️⃣ [Microservices](#microservices)
+  - [Load Balancing](#load-balancing)
+  - [Resiliency](#resiliency)
+  - [Fault Tolerance](#fault-tolerance)
+  - [Architecture Patterns](#architecture-patterns)
+  - [Observability](#observability)
+  - [Chaos Engineering](#chaos-engineering)
+  - [Service Mesh](#service-mesh)
+  - [End-to-End examples](#end-to-end-examples)
 
 6️⃣ [Testing](#testing)
 
 7️⃣ [Runtime](#runtime)
   - [Docker](#docker)
   - [Pivotal Cloud Foundry](#pivotal-cloud-foundry)
-  - [Google Cloud Platform](#google-cloud-platform)
   - [Amazon Web Services](#amazon-web-services)
+  - [Google Cloud Platform and Kubernetes](#google-cloud-platform-and-kubernetes)
   - [Azure](#azure)
-  - [Kubernetes](#kubernetes)
+
 
 8️⃣ [Official Documentations(#official-documentations)
 
@@ -49,6 +58,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is Spring Boot?](https://youtu.be/SxY4hLukQ3g)
   - [What is Spring Cloud?](https://youtu.be/DduObGoRB9Y)
   - [What is Cloud Native?](https://youtu.be/NoFu_rpM7EQ)
+  - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
 
 ## Deep Dive
 ### MVC and JPA
@@ -158,37 +168,47 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
   
 ## Microservices
-  - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
-  - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
-  - [What is Blue/Green Deployment?](https://youtu.be/hp8ZO3SYviU)
-  - [What is Hystrix with example](https://youtu.be/P1iF8ltmlXE)
-  - [What is API Gateway? | Swiggy Imaginary Architecture](https://youtu.be/Wa_q8C6Qo68)
-  - [What is Chaos Engineering?](https://youtu.be/3CNNhK9JTDk)
-  - [Hystrix Dashboard with Spring Boot example](https://youtu.be/SxJ2uLZWOyw)
-  - [What is Spring Cloud Sleuth? (Distributed Log tracing)](https://youtu.be/VHTli6KQO54)
-  - [Distributed Log tracing using Spring Cloud Sleuth example](https://youtu.be/gPKJkY2t7Pc)
-  - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
-  - [What is Reactive Programming?](https://youtu.be/0ueFTvSdxpw)
-  - [Microservices Communication](https://youtu.be/uprdxlQ1U5g)
-  - [How to design Microservices Architecture? Uber case study](https://youtu.be/Zed6udTPGro)
-  - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
-  - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
-  - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
-  - [How to design Highly Available Architecture?](https://youtu.be/dhvGnqbx7zM)
-  - [SAGA Architecture](https://youtu.be/WnZ7IcaN_JA)
-  - [Serverless in 2020](https://youtu.be/43PhZC3WD8s)
-  - [Microservices & Kubernetes Observability](https://youtu.be/NLr9tGBtVk8)
-  - [Microservices & Kubernetes Observability Demo](https://youtu.be/GyqMx-XrKWc)
-  - [Food Store System design using various Cloud Platforms](https://youtu.be/bHelfhgSN2c)
-
 ### Load Balancing
   - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
   - [What is Client Side Load balancing?](https://youtu.be/-PbnWGddmcM)
   - [What is Server Side Load balancing?](https://youtu.be/z90Dcid2py4)
+
+### Resiliency
+  - [How to design Highly Available Architecture?](https://youtu.be/dhvGnqbx7zM)
+  - [What is Blue/Green Deployment?](https://youtu.be/hp8ZO3SYviU)
+
+### Fault Tolerance
+  - [What is Hystrix with example](https://youtu.be/P1iF8ltmlXE)
+  - [Hystrix Dashboard with Spring Boot example](https://youtu.be/SxJ2uLZWOyw)
+
+### Architecture Patterns
+  - [What is API Gateway? | Swiggy Imaginary Architecture](https://youtu.be/Wa_q8C6Qo68)
+  - [What is Service Registry?](https://youtu.be/hXYmVxLV_lc)
+  - [What is Reactive Programming?](https://youtu.be/0ueFTvSdxpw)
+  - [Microservices Communication](https://youtu.be/uprdxlQ1U5g)
+  - [How to design Microservices Architecture? Uber case study](https://youtu.be/Zed6udTPGro)
+  - [SAGA Architecture](https://youtu.be/WnZ7IcaN_JA)
+  - [Serverless in 2020](https://youtu.be/43PhZC3WD8s)
+  - [Food Store System design using various Cloud Platforms](https://youtu.be/bHelfhgSN2c)
+  - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
+
+### Observability
+  - [What is Spring Cloud Sleuth? (Distributed Log tracing)](https://youtu.be/VHTli6KQO54)
+  - [Distributed Log tracing using Spring Cloud Sleuth example](https://youtu.be/gPKJkY2t7Pc)
+  - [Microservices & Kubernetes Observability](https://youtu.be/NLr9tGBtVk8)
+  - [Microservices & Kubernetes Observability Demo](https://youtu.be/GyqMx-XrKWc)
+
+### Chaos Engineering
+  - [What is Chaos Engineering?](https://youtu.be/3CNNhK9JTDk)
   
 ### Service Mesh
   - [What is Service Mesh? Why do we need Service Mesh?](https://youtu.be/nnxWMhy0mpA)
   - [Linkerd Service mesh with Spring Boot example](https://youtu.be/Bj7gGQUiDuk)
+
+### End-to-End examples
+  - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #1](https://youtu.be/rlS9eH5tEnY)
+  - [Designing Microservices using Spring Boot, Spring Cloud, Eureka and Zuul #2](https://youtu.be/ifBFwH59gGA)
+  - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
 
 ## Testing
   - [What is TDD?](https://youtu.be/T38L7A0xP-c)
@@ -204,12 +224,10 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Boot and MySQL in Docker example](https://youtu.be/fvEWoy1xOvo)
 
 ### Pivotal Cloud Foundry
-  - [What is Cloud Foundry?]()
+  - [What is Cloud Foundry?](https://youtu.be/vzSuYab2q5M)
   - [Deploying a Spring Boot App in Cloud Foundry](https://youtu.be/hzWEw--OziQ)
   - [Blue Green Deployment in Cloud Foundry](https://youtu.be/2Hz7r70ZuFU)
   
-### Google Cloud Platform
-  - [GCP Console tour](https://youtu.be/2WcAWhubJYs)
   
 ### Amazon Web Services
   - [What is AWS?](https://youtu.be/8xm8uraSxLY)
@@ -218,9 +236,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Cloud Function example](https://youtu.be/8c8vEBUELYE)
   - [Spring Cloud Function on AWS Lambda](https://youtu.be/Bj_5U7h_Ri0)
 
-### Azure
-
-### Kubernetes
+### Google Cloud Platform and Kubernetes
+  - [GCP Console tour](https://youtu.be/2WcAWhubJYs)
   - [What is Kubernetes?](https://youtu.be/DsHcfoRyDsM)
   - [Kubernetes Architecture](https://youtu.be/Cmk6c5dXPfk)
   - [Kubernetes Architecture - Service & Deployment](https://youtu.be/p1C9p4FTMYg)
@@ -234,6 +251,8 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Cloud Kubernetes with Discovery Client](https://youtu.be/icyHIjfgYRY)
   - [Remote Debugging in Kubernetes](https://youtu.be/OmQU1p0wQmY)
   - [Kubernetes Secrets with Spring Boot example](https://youtu.be/Qzy6nmk0eI8)
+
+### Azure
 
 ## Official Documentations
   - [Spring Boot]()
