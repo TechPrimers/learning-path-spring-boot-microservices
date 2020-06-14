@@ -156,7 +156,6 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### Neo4J
   - [What is Graph Database?](https://youtu.be/3C48rm9H4DI)
   - [Spring Boot with Neo4J example](https://youtu.be/GerN3MGm9Js)
-
   
 ## Microservices
   - [What is Event Driven Architecture?](https://youtu.be/SnO9dTbF6hM)
@@ -177,6 +176,10 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Cloud Config Server with example](https://youtu.be/b2ih5RCuxTM)
   - [How to design Highly Available Architecture?](https://youtu.be/dhvGnqbx7zM)
   - [SAGA Architecture](https://youtu.be/WnZ7IcaN_JA)
+  - [Serverless in 2020](https://youtu.be/43PhZC3WD8s)
+  - [Microservices & Kubernetes Observability](https://youtu.be/NLr9tGBtVk8)
+  - [Microservices & Kubernetes Observability Demo](https://youtu.be/GyqMx-XrKWc)
+  - [Food Store System design using various Cloud Platforms](https://youtu.be/bHelfhgSN2c)
 
 ### Load Balancing
   - [What is Load Balancing?](https://youtu.be/7LMaAVwZE2c)
@@ -226,6 +229,11 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Deployment Strategies in Kubernetes #1](https://youtu.be/4AUnI58ZI6M)
   - [Blue Green Deployment | Deployment Strategies in Kubernetes #2](https://youtu.be/YBv-0VzjwhM)
   - [Canary Deployment | Deployment Strategies in Kubernetes #3](https://youtu.be/vIVXyAUEf0A)
+  - [Readiness & Liveness Probes | Robust and resilient app in Spring Boot Kubernetes](https://youtu.be/aft4rlRpORI)
+  - [Spring Cloud Kubernetes with ConfigMaps](https://youtu.be/Jk0N-drqXvY)
+  - [Spring Cloud Kubernetes with Discovery Client](https://youtu.be/icyHIjfgYRY)
+  - [Remote Debugging in Kubernetes](https://youtu.be/OmQU1p0wQmY)
+  - [Kubernetes Secrets with Spring Boot example](https://youtu.be/Qzy6nmk0eI8)
 
 ## Official Documentations
   - [Spring Boot]()
