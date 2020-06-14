@@ -3,8 +3,7 @@ Curated path for learning Spring Boot &amp; Microservices based on published vid
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/techprimers/learning-path-spring-boot-microservices.svg)](https://github.com/techprimers/learning-path-spring-boot-microservices/issues) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/techprimers/learning-path-spring-boot-microservices.svg?maxAge=2592000)]() 
+[![GitHub stars](https://img.shields.io/github/stars/techprimers/learning-path-spring-boot-microservices.svg)](https://github.com/techprimers/learning-path-spring-boot-microservices/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/techprimers/learning-path-spring-boot-microservices.svg)](https://github.com/techprimers/learning-path-spring-boot-microservices/network)
 
 _💡Each link points to a separate Youtube video, the code samples and relevant links/videos are available in the description of each video._
