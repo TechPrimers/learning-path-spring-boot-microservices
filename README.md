@@ -60,7 +60,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   
 ### Enterprise grade
   - [Properties vs YAML](https://youtu.be/EvEM1FQlFpQ)
-  - [Profiles in Spring Boot example]()
+  - [Profiles in Spring Boot example](https://youtu.be/Op4SRM3t0nw)
   - [Running Spring Boot App as HTTPS](https://youtu.be/rm9OKTSm-4A)
   - [What are WebSockets?](https://youtu.be/i5OVcTdt_OU)
   - [Spring Boot using WebSockets example](https://youtu.be/OK2Fn6k7pwo)
@@ -174,6 +174,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Writing JUnit Tests for RestController using MockMvc and Mockito](https://youtu.be/8S8o46avgAw)
   - [Writing Mock Service in RestController and JUnits for POST with MockMvc](https://youtu.be/Ijj5RLSAcYw)
   - [Unit & Integration Tests in Spring Boot example](https://youtu.be/ackhP0ubtd4)
+  - [What is BDD (Cucumber example)?](https://youtu.be/Wc3UDbYO_b4)
 
 ## Runtime
 ### Docker
