@@ -64,6 +64,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [What is Spring Cloud?](https://youtu.be/DduObGoRB9Y)
   - [What is Cloud Native?](https://youtu.be/NoFu_rpM7EQ)
   - [What is Netflix OSS?](https://youtu.be/cgg8F_6qAtg)
+  - [Spring Native](https://www.youtube.com/watch?v=YeNLr0C94as&t=11s)
   
 ## Deep Dive
 ### MVC and JPA
@@ -107,6 +108,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   
 ### Spring Boot: Best and Worst
   - [Spring Boot: Best and Worst - my take](https://youtu.be/myqK2vcg-5w)
+  - [15 Spring Boot Best practices to create a production grade microservices](https://www.youtube.com/watch?v=bB-xAYpeVL8)
 
 ## Security
   - [Spring Security in Spring Boot with example](https://youtu.be/3s2lSD50-JI)
@@ -158,10 +160,12 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### ActiveMQ
   - [Spring Boot with InMemory ActiveMQ example](https://youtu.be/w78qhfpnLA0)
   - [Spring Boot with Standalone ActiveMQ example](https://youtu.be/zaCXYkzLgJc)
+  - 
 ### Kafka
   - [What is Apache Kafka?](https://youtu.be/Najgh-3hcng)
   - [Spring Boot with Kafka Producer example](https://youtu.be/NjHYWEV_E_o)
   - [Spring Boot with Kafka Consumer example](https://youtu.be/IncG0_XSSBg)
+  - [Spring Cloud Kafka Streams Microservices example](https://www.youtube.com/watch?v=rqjdSbIOrJ4&t=247s)
 
 ### Redis
   - [What is Redis?](https://youtu.be/Wxd6sMUhgBg)
@@ -226,6 +230,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Spring Cloud Eureka example](https://youtu.be/SjU3AsSATvI)
   - [Spring Cloud Eureka and Hystrix](https://youtu.be/hQ1pu1O4dRA)
   - [Spring Cloud Eureka, Hystrix and Zuul](https://youtu.be/dZ8Z5DpcdrM)
+  - [Spring Cloud Kafka Streams Microservices example](https://www.youtube.com/watch?v=rqjdSbIOrJ4&t=247s)
 
 ## Testing
   - [What is TDD?](https://youtu.be/T38L7A0xP-c)
