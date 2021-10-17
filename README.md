@@ -104,7 +104,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
 ### Documentation
   - [API First Desgin | Open API Specification](https://youtu.be/00DByVAVKV4)
   - [REST API Documentation (Swagger2) example](https://youtu.be/HHyjWc0ASl8)
-  - [Spring Boot with HATEOS and REST with example](https://youtu.be/vvcANMpfr5I)
+  - [Spring Boot with HATEOAS and REST with example](https://youtu.be/vvcANMpfr5I)
   
 ### Spring Boot: Best and Worst
   - [Spring Boot: Best and Worst - my take](https://youtu.be/myqK2vcg-5w)
